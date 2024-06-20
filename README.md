@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact : **Trust me, I'm a programmer. I try to turn coffee into code! ☕💻**
 
-<h3 align="left">Connect with me:</h3>
+<br><br>
 <p align="left">
 </p>
 
